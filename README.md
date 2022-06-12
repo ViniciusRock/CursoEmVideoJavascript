@@ -1,8 +1,12 @@
 # CursoEmVideoJavascript
-Módulo A - Conhecendo Javascript
-Módulo B - Armazenando Ddos
+
+         Módulo A - Conhecendo Javascript 
+
+         Módulo B - Armazenando dos dados
+
          - Tratamento de dados
          - Operações com dados
+         
         X Não pule aula
         x Aote tudo
         x Duas Telas(celular e computador)
