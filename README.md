@@ -8,4 +8,3 @@ Módulo B - Armazenando Ddos
         x Duas Telas(celular e computador)
         X Pratique
         x Compartilhe(estude em grupo)
-        
